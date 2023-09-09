@@ -1,0 +1,72 @@
+.row {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cont {
+
+    margin-top: 20px;
+
+}
+
+.img {
+    width: 100%;
+    height: 800px;
+}
+
+.h, .h2 {
+    text-align: center;
+
+
+
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.hh2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.bat {
+    width: 33%;
+}
+
+.conte {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+footer {
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 150px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.card {
+    padding: 10px;
+
+
+}
+
+.alink {
+    text-decoration: none;
+    color: white;
+}
